@@ -1,4 +1,4 @@
-# Alura Books
+# Culturama
 
 Desenvolvimento de uma aplicação chamada cultada, onde o principal objetivo foi ajustar dimensões de grid e flex mediante um código já feito.
 
